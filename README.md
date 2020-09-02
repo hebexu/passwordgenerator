@@ -6,4 +6,4 @@ Finally, I used passwordText to return the password to document. querySelector.
 Some pictures here:
 
 Summary:
-From this homework, I learnt how to use Javascript functions to solve the problem.
+From this homework, I learnt how to use Javascript functions to solve the problem. It is difficult to understand all the background of logic but I have improved from this practical work.
