@@ -21,6 +21,4 @@ The function of GeneratePassword(length) in script.js could help create a random
   (./asset/passwordgenerator_demo_3)
   (./asset/passwordgenerator_demo_4)
  
-Summary:
-From this homework, I learnt how to use Javascript functions to solve the problem. It is difficult to understand all the background of logic but I have improved from this practical work.
 
